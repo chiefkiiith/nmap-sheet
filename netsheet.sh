@@ -1,4 +1,4 @@
-### code crested by chiefkiiith
+### code created by chiefkiiith
 ### 31 August 2023
 ### https://github.com/chiefkiiith
 ### Simple cheatsheet for nmap scripts(nothing too complicated)
